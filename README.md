@@ -98,9 +98,10 @@ Check out my work in the Projects section!
 
 Want to collaborate or give feedback?
 
-Email: your-email@example.com  
-LinkedIn: [your-linkedin-profile]  
-GitHub: [your-github-profile]
+Email: keerthanavinothkumar2006@gmail.com
+LinkedIn:https://www.linkedin.com/in/keerthana-vinothkumar-7364b1296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+GitHub:https://github.com/Keerthana-2006-vinothkumar
 
 ---
 
